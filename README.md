@@ -1,6 +1,6 @@
-# github-help
-Resumo dos principais processos dentro do Github e seus respectivos comandos.
+# Github-Help
+Principais processos com Git/Github e seus respectivos comandos.
 
 ---
-1. [Acesso](/help/acesso.md)
-
+1. [Acesso SSH / Token](/help/acesso.md)
+2. [Config do Git](/help/config.md)
