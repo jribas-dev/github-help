@@ -1,7 +1,10 @@
-<center><img src="/assets/git-life-cycle.jpg"></center>
+![Life Cycle](/assets/git-life-cycle.jpg)
 
 - **git status** [...](https://git-scm.com/docs/git-status)
-	> Mostra a situação do seu repositório: novos arquivos ou pastas, arquivos ou pastas modificadas, arquivos ou pastas excluidas.
+    > Mostra a situação atual do seu repositório local: 
+    novos arquivos ou pastas, 
+    arquivos ou pastas modificadas,
+    arquivos ou pastas excluidas.
 - **git add** *[opções]* [...](https://git-scm.com/docs/git-add)
 	- [*] aplica todas, inclusões, modificações, exclusões
     - *[nome do arquivo]* aplica somente o arquivo informado
@@ -12,3 +15,5 @@
     > vai empurrar os aquivos do repositório local para repositório remoto
 - **git pull origin** *[nome da branch]* [...](https://git-scm.com/docs/git-pull)
     > vai puxar os aquivos do repositório remoto para repositório local
+
+[VOLTAR](../README.md)

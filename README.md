@@ -1,4 +1,4 @@
-# Github-Help
+# github-help
 Principais processos com Git/Github e seus respectivos comandos.
 
 ---
@@ -17,3 +17,15 @@ Principais processos com Git/Github e seus respectivos comandos.
     > vai vincular o seu repositório local com o remoto
 5. [Ciclo de vida](/help/ciclo.md) de um repositório
     > comandos mais utilizados durante o ciclo de vida de um projeto
+6. [Resolvendo conflitos](/help/conflito.md)
+    > um tutorial de como resolver os conflitos de *merge* mais comuns 
+7. [Branchs](/help/branch.md) (separando seu repositório em ramificações)
+    > por vários motivos, faz-se necessário o uso de branchs em seu repositório.
+8. [Stash](/help/stash.md)
+    > uma feature muito útil para navegar entre branchs, sem carregar alterações.
+9. [Pull Request](/help/pullrequest.md)
+    > uma feature para contibuir com um projeto o qual você não faça parte do time.
+10. Histórico do Repositório (em breve)
+11. Reversão de Commits (em breve)
+
+---
