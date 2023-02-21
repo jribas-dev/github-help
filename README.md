@@ -20,12 +20,14 @@ Principais processos com Git/Github e seus respectivos comandos.
 6. [Resolvendo conflitos](/help/conflito.md)
     > um tutorial de como resolver os conflitos de *merge* mais comuns 
 7. [Branchs](/help/branch.md) (separando seu repositório em ramificações)
-    > por vários motivos, faz-se necessário o uso de branchs em seu repositório.
+    > por vários motivos, faz-se necessário o uso de branchs em seu repositório
 8. [Stash](/help/stash.md)
-    > uma feature muito útil para navegar entre branchs, sem carregar alterações.
+    > uma feature muito útil para navegar entre branchs, sem carregar alterações
 9. [Pull Request](/help/pullrequest.md)
-    > uma feature para contibuir com um projeto o qual você não faça parte do time.
-10. Histórico do Repositório (em breve)
-11. Reversão de Commits (em breve)
+    > uma feature para contibuir com um projeto o qual você não faça parte do time
+10. [Histórico do Repositório](/help/log.md)
+    > uma lista de comandos para visuliazar o histórico de alterações
+11. [Reversão de Commits](/help/reset.md)
+    > como reverter um commit no repositório local ou remoto
 
 ---
